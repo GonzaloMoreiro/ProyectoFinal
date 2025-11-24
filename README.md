@@ -1,5 +1,5 @@
 <p align="center"> <img src="./jzvh9rej4ehh8wparx5j.jpg" alt="DevCore Project" width="10%"/> </p>
-💻 Proyecto DevCore - Plataforma de Cursos
+### 💻 Proyecto DevCore - Plataforma de Cursos
 
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-007ACC?style=for-the-badge&logo=appveyor&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -8,7 +8,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-🖥️ Descripción
+## 🖥️ Descripción
 
 DevCore es una plataforma de cursos online que permite a los usuarios registrarse, explorar cursos y acceder a contenido educativo.
 El proyecto combina un frontend moderno con Next.js/React y un backend escalable con NestJS y PostgreSQL.
@@ -81,7 +81,7 @@ mau deploy
 ```
 ## 🔗 Proyecto destacado
 
-Repositorio GitHub: DevCore
+Repositorio GitHub: [DevCore](https://github.com/DevCore-PF)
 
 Plataforma educativa desarrollada con enfoque full stack, escalable y modular.
 
