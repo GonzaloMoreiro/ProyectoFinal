@@ -46,12 +46,12 @@ git clone <REPO_URL>
 cd devcore
 
 ## Frontend
-'''
+```
 cd frontend
 npm install
 npm run dev
 # o yarn dev / pnpm dev
-'''
+```
 
 Abre http://localhost:3000
  en tu navegador.
