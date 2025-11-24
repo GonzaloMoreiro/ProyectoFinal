@@ -42,10 +42,12 @@ Dashboard para administración de cursos y usuarios
 ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
 ##🚀 Instalación y ejecución
-Clonar el proyecto
+
+## Clonar el proyecto
+```
 git clone <REPO_URL>
 cd devcore
-
+```
 ## Frontend
 ```
 cd frontend
