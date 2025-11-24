@@ -1,7 +1,12 @@
 <p align="center"> <img src="./jzvh9rej4ehh8wparx5j.jpg" alt="DevCore Project" width="10%"/> </p>
 💻 Proyecto DevCore - Plataforma de Cursos
 
-Full Stack Developer | TypeScript | Node.js | React | NestJS | PostgreSQL
+![Full Stack](https://img.shields.io/badge/Full%20Stack-007ACC?style=for-the-badge&logo=appveyor&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=000000)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 🖥️ Descripción
 
@@ -41,11 +46,12 @@ git clone <REPO_URL>
 cd devcore
 
 ## Frontend
+'''
 cd frontend
 npm install
 npm run dev
 # o yarn dev / pnpm dev
-
+'''
 
 Abre http://localhost:3000
  en tu navegador.
