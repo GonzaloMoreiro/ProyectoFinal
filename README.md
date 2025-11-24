@@ -56,25 +56,29 @@ npm run dev
 Abre http://localhost:3000
  en tu navegador.
 
-Backend
+## Backend
+```
 cd backend
 npm install
 npm run start:dev
 # Producción: npm run start:prod
-
-Pruebas
+```
+## Pruebas
+```
 npm run test      # Unitarias
 npm run test:e2e  # End-to-end
 npm run test:cov  # Cobertura
-
+```
 ## 🌐 Despliegue
 
 Frontend: recomendado en Vercel
 Backend: desplegable en AWS/Mau usando NestJS Mau:
 
+```
 npm install -g @nestjs/mau
 mau deploy
 
+```
 ## 🔗 Proyecto destacado
 
 Repositorio GitHub: DevCore
