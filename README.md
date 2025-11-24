@@ -1,4 +1,4 @@
-<p align="center"> <img src="./jzvh9rej4ehh8wparx5j.jpg" alt="DevCore Project" width="600"/> </p>
+<p align="center"> <img src="./jzvh9rej4ehh8wparx5j.jpg" alt="DevCore Project" width="10%"/> </p>
 💻 Proyecto DevCore - Plataforma de Cursos
 
 Full Stack Developer | TypeScript | Node.js | React | NestJS | PostgreSQL
