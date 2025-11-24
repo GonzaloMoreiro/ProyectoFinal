@@ -96,6 +96,6 @@ TypeORM Docs
 
 Tailwind CSS Docs
 
-##📝 Licencia
+## 📝 Licencia
 
 MIT License – Proyecto Open Source
