@@ -1,5 +1,5 @@
 <p align="center"> <img src="./jzvh9rej4ehh8wparx5j.jpg" alt="DevCore Project" width="10%"/> </p>
-### 💻 Proyecto DevCore - Plataforma de Cursos
+# 💻 Proyecto DevCore - Plataforma de Cursos
 
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-007ACC?style=for-the-badge&logo=appveyor&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
