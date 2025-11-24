@@ -20,34 +20,27 @@ Dashboard para administración de cursos y usuarios
 
 ⚙️ Tecnologías
 
-Frontend:
+## Frontend:
 
-Next.js
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS / Tailwind](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-React
+## Backend:
 
-TypeScript
+![NestJS](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=JSONWebTokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
-CSS / Tailwind
-
-Backend:
-
-NestJS
-
-TypeScript
-
-PostgreSQL (via TypeORM)
-
-JWT para autenticación
-
-Swagger para documentación de API
-
-🚀 Instalación y ejecución
+##🚀 Instalación y ejecución
 Clonar el proyecto
 git clone <REPO_URL>
 cd devcore
 
-Frontend
+## Frontend
 cd frontend
 npm install
 npm run dev
@@ -68,7 +61,7 @@ npm run test      # Unitarias
 npm run test:e2e  # End-to-end
 npm run test:cov  # Cobertura
 
-🌐 Despliegue
+## 🌐 Despliegue
 
 Frontend: recomendado en Vercel
 Backend: desplegable en AWS/Mau usando NestJS Mau:
@@ -76,13 +69,13 @@ Backend: desplegable en AWS/Mau usando NestJS Mau:
 npm install -g @nestjs/mau
 mau deploy
 
-🔗 Proyecto destacado
+## 🔗 Proyecto destacado
 
 Repositorio GitHub: DevCore
 
 Plataforma educativa desarrollada con enfoque full stack, escalable y modular.
 
-📚 Recursos
+## 📚 Recursos
 
 NestJS Docs
 
@@ -92,6 +85,6 @@ TypeORM Docs
 
 Tailwind CSS Docs
 
-📝 Licencia
+##📝 Licencia
 
 MIT License – Proyecto Open Source
