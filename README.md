@@ -88,13 +88,10 @@ Plataforma educativa desarrollada con enfoque full stack, escalable y modular.
 
 ## 📚 Recursos
 
-NestJS Docs
-
-Next.js Docs
-
-TypeORM Docs
-
-Tailwind CSS Docs
+- [NestJS Docs](https://docs.nestjs.com/)  
+- [Next.js Docs](https://nextjs.org/docs)  
+- [TypeORM Docs](https://typeorm.io/)  
+- [Tailwind CSS Docs](https://tailwindcss.com/docs)
 
 ## 📝 Licencia
 
