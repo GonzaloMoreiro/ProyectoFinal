@@ -1,4 +1,4 @@
-<p align="center"> <img src="./jzvh9rej4ehh8wparx5j.jpg" alt="DevCore Project" width="10%"/> </p>
+<p align="center"> <img src="https://res.cloudinary.com/dclx6hdpk/image/upload/v1762566074/certificates/pruebaEmail.jpg.jpg" alt="DevCore Project" width="10%"/> </p>
 
 ## 💻 Proyecto DevCore - Plataforma de Cursos
 
